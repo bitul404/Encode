@@ -1,3 +1,5 @@
+![Screenshot_20220828-053533](https://user-images.githubusercontent.com/105690756/187055014-88ca4fde-621c-4bce-9eee-47fe6324c814.png)
+
 𝐌𝐑 𝐁𝐢𝐭𝐮𝐥 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐔𝐩 𝐒𝐭𝐨𝐫𝐚𝐠𝐞 
  - `pkg update -y`
  - `pkg upgrade -y`
